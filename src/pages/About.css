@@ -1,0 +1,12 @@
+.card-image{
+    width: 100%;
+    height: auto;
+  }
+
+.flex-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 35%;
+    padding-right: 35%;
+}
